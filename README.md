@@ -1,7 +1,7 @@
 # 🤖 **Andres Torres-Cajamarca**
 
-🎓 **Engineer & Master's Student** passionate about **Robotics** and **Control**.  
-🤖 I love building intelligent systems that merge **control, perception, and reasoning** to solve real-world problems.
+🎓 **Mechatronics Engineer** | **M.Sc. Candidate at [UNAL](https://unal.edu.co/)** & **Diplôme d'Ingénieur Student at [IMT Atlantique](https://www.imt-atlantique.fr/en)**  
+Passionate about **Robotics**, **Control Systems**, and **Intelligent Automation**.
 
 ---
 
